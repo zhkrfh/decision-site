@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>决策进阶课程：从岗位投入到人生选择</title>
+<link>https://zhkrfh.github.io/decision-site/</link>
+<description>用一道道真实的仓位题，把 offer、跳槽、副业这些大决策拆成五个数。先查能不能输，再看想不想赢。</description>
+<language>zh-CN</language>
+<item>
+  <title>一份 1.12 分的 offer，和我按下去的投递键</title>
+  <link>https://zhkrfh.github.io/decision-site/%E6%A1%88%E4%BE%8B01.html</link>
+  <guid>case-01</guid>
+  <pubDate>Mon, 05 Oct 2026 20:30:00 +0800</pubDate>
+  <description>境外银行客户营销岗，直觉打 2.91 分，先除以 1.2 之后只剩 1.12。一次完整的期望值记账。</description>
+</item>
+<item>
+  <title>方法论：五个数——从凯利公式到职业选择</title>
+  <link>https://zhkrfh.github.io/decision-site/%E6%96%B9%E6%B3%95%E8%AE%BA.html</link>
+  <guid>method-01</guid>
+  <pubDate>Mon, 05 Oct 2026 20:30:00 +0800</pubDate>
+  <description>S = p×G − (1−p)×C。可评估不等于可入账：五个参数各就各位。</description>
+</item>
+</channel></rss>
